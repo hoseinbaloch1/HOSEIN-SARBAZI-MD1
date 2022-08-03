@@ -83,19 +83,19 @@ bash <(curl -L https://t.ly/tHxh)
 با تأسیس آسنا، شما این مسئولیت ها را پذیرفته اید.
 ```
   
-## Developers
+## توسعه دهندگان
   <div align="center">
     
   [[![hoseinbaloch1](https://github.com/HOSEIN-SARBAZI-MD1.png?size=100)](https://github.com/hoseinbaloch1) 
 
 [HOSEIN-SARBAZI](https://github.com/hoseinbaloch1)
 
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+پایه، رفع اشکال، ماژول ها | اصلاح به عنوان عمومی | رفع اشکال، ماژول ها
   </div>
 
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
+## مجوز
+این پروژه با GNU General Public Licence v3.0مجوز محافظت می شود.
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+### سلب مسئولیت
+WhatsAppنام، تغییرات آن و لوگو علائم تجاری ثبت شده فیس بوک هستند. ما با علامت تجاری ثبت شده کاری نداریم
