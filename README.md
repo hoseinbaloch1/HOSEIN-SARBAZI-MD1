@@ -60,15 +60,15 @@ Project created by <a href="https://github.com/hoseinbaloch1">HOSEIN-SARBAZI</a>
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+ اگر از طریق بالا نتوانستید ران کنید میتوانید با ترموکس از طریق این کد رات کنید 
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+## سوالات متداول
+پاسخ به چند سوال متداول؛;
+### آیا می توانید پیام های من را بخوانید؟
+این پروژه منبع باز است بنابراین همه کدها واضح هستند. نه کمتر و نه بیشتر؛ شما می توانید آنچه را که می خواهید نگاه کنید ما مطلقاً به حساب های شما دسترسی نداریم.**
 
 ### What about our security?
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
