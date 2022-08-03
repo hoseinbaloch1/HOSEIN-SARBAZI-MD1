@@ -70,18 +70,17 @@ bash <(curl -L https://t.ly/tHxh)
 ### آیا می توانید پیام های من را بخوانید؟
 این پروژه منبع باز است بنابراین همه کدها واضح هستند. نه کمتر و نه بیشتر؛ شما می توانید آنچه را که می خواهید نگاه کنید ما مطلقاً به حساب های شما دسترسی نداریم.**
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+### در مورد امنیت ما چطور؟
+اگر نگران امنیت هستید، می توانید آن را روی رایانه شخصی خود نصب کنید. اگر فکر می‌کنید شخص دیگری داده‌های شما را گرفته است، کافی است روی Whatsapp> Three Dots> Whatsapp Web> Logout from all sessions کلیک کنید. 
 
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### ⚠️ Warning! 
+### آیا پرداخت می شود؟
+**البته که نه. هرگز اتفاق نخواهد افتاد. اما شما می توانید به ما کمک کنید. می توانید از طریق تلگرام با من در ارتباط باشید .
+### ⚠️ !توجه 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+با توجه به Userbot; ممکن است حساب واتساپ شما مسدود شده باشد.
+این یک پروژه متن باز است، شما مسئول هر کاری هستید که انجام می دهید.
+قطعا مدیران آسنا مسئولیتی نمی پذیرند.
+با تأسیس آسنا، شما این مسئولیت ها را پذیرفته اید.
 ```
   
 ## Developers
