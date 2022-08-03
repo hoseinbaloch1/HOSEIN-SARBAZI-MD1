@@ -1,17 +1,17 @@
-## Thanks for Everything 
-### We will always remember you..
+## HOSEIN-SARBAZI-MD1
+### ربات فوق العاده حسین صربازی
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.ibb.co/5W3gfSG/image.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Badboy" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Badboy" src="https://i.ibb.co/HnMm6f4/image.jpg"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/hoseinbaloch1"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/hoseinbaloch1">HOSEIN-SARBAZI</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,30 +21,32 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/BADBMODER/Badboy ">
+  <a href="https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1 ">
     <img src="https://img.shields.io/github/repo-size/BADBMODER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/BADBMODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
-<a href="https://github.com/BADBMODER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/hoseinbaloch1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
+<a href="https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
+<a href="https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
+<a href="https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-Badboy - Badboy Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+ یک نرم افزار متن باز است که قابل توسعه است . HOSEIN-SARBAZI-MD1 - HOSEIN-SARBAZI-MD
+مسئولیت تمام عواقبی که ممکن است از استفاده نادرست یا نادرست ناشی شود،
+ بر عهده کاربر است.
+ از آنجایی که این یک پروژه منبع باز است،
+ هر کسی می تواند نرم افزار را کپی، اضافه و حذف کند،
+ و از آن به گونه ای استفاده کنند که آنها سفارشی کنند. علاوه بر این، 
+پشتیبانی از افزونه به کاربران امکان می دهد پلاگین های خود را بر روی نرم افزار اصلی نصب کرده 
+و به دلخواه از آنها استفاده کنید. 
+استفاده از ربات بدون هدف شما را به صراحت ممنوع می کند.
+ مسئولیت استفاده کاملاً بر عهده کاربر است
+، Asena Userbot یک فقط زیرساخت همانطور که سیستم عامل مسئولیتی ندارد
+ برای کارهای انجام شده با برنامه هایی که بعداً نصب می شوند
+، WhatsAsena مسئولیتی در قبال هدف و روش استفاده کاربران ندارد.
+ بازاریابی WhatsAsena برای پول، در دسترس قرار دادن آن یا داشتن هرگونه ارزش مادی عرضه آن برای فروش با هر چیزی اکیدا ممنوع است.
+ تمام تحقیقات قانونی که ممکن است ایجاد شود کاربر مسئول است
 ```
 
 
@@ -54,7 +56,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1)
      </div>
 <br>
 <br >
@@ -85,7 +87,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![hoseinbaloch1](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
 
 [BADBMODER](https://github.com/BADBMODER)
 
