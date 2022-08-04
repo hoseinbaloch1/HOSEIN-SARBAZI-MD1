@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/hoseinbaloch1">HOSEIN-SARBAZI</a>
 <div align="center">
 
   ### روش ساده
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@hellogame2/HOSEIN-SARBAZI-MD1?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD1)
      </div>
